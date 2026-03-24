@@ -55,7 +55,7 @@ To get a local copy up and running follow these simple steps.
 Ensure that you have PostgreSQL running and a database created for the Task Manager. Configure the database connection in the `application.properties` file.  
 
 ## Authors  
-- **Imesha Dissa**  
+- **Imesha Dissanayaka**  
 
 ## License  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
